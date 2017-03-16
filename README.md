@@ -28,6 +28,14 @@ I'm a talented Software/Web Developer with an acute attention to detail. For ove
 
 ## Experience
 
+### BlyncSync
+
+*03/2017 - Present*
+
+*Consultant/Software Engineer*
+
+Responsible for establishing best practices and coding standards. Also responsible for assisting with application development.
+
 ### Kalibrate
 
 *03/2016 - 01/2017*
